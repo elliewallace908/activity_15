@@ -1,0 +1,50 @@
+Goal: create a QMD file including the needed informarion about Armed Forces 
+      Data, Baby Names, and Box Function, also included a section detailing what
+      i've learned and a code appendix. Then create a repo in Github showing the 
+      QMD.
+
+Needs: Armed Forces tidyied data, Baby Names tidyied data, box function, 
+       nessecary packages for each data set (tidyverse, ggplot2, dplyer, ect.),
+       Quarto downloaded. Also Github.
+
+Quarto File:
+   - create a QMD file in R
+   - create the proper YAML heading
+   - create a header and a code block for the Armed forces data section
+   - use the right labels
+   - copy the code for the tidyed AF data
+   - filter the data so it's only enlisted army members left
+   - copy the code for the table
+   - add the long descitpion for the table
+   - add a new header and code block for the Baby Names data
+   - add the proper labels for the code
+   - copy the code for tidying and creating the graphic
+   - add the long discription after the code
+   - creare a new header and code block for the box problem function
+   - add the proper labels
+   - copy the code for the box problem
+   - adjust the code to the new dimensions
+   - create the data visualization for the box problem using stat_fucntion
+   - add a long description for the visualization
+   - create a new section title, "What I've Learned So Far"
+   - add information about what i've learned
+   - add section title, "Code Appendix"
+   - create a new code block including the code appendix
+   - redner the dicument
+   -examine for errors
+   -correct anyhting that is ammiss
+   -submit finished PDF
+   
+Github Repo:
+   - open GitHub and create a new repository
+   - add a branch and use that branch to adds the README, the qmd, the pdf, and
+   the plan
+   - create two issues and resolve those issues by using commits
+   - edit the README file
+   - use pulls and pushes to resolve the issues
+   - merge everything to main
+
+
+
+
+
